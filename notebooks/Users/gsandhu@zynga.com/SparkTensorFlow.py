@@ -1,4 +1,4 @@
-# Databricks notebook source exported at Wed, 2 Nov 2016 21:12:58 UTC
+# Databricks notebook source exported at Wed, 2 Nov 2016 21:13:47 UTC
 # MAGIC %md
 # MAGIC **If you see ![](http://training.databricks.com/databricks_guide/ImportNotebookIcon3.png) at the top, click on the link to import this notebook in order to run it.** 
 
